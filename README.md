@@ -14,4 +14,5 @@ Current Features:
 - And alot more that i completely forgot
 
 Requires ARC9 to use these goodies that you can download here:
-https://github.com/HaodongMo/ARC-9
+https://githubfast.com/HaodongMo/ARC-9
+测试测试测试1111111111111111
